@@ -1,59 +1,67 @@
 HOTEL_POLICY = """
-Hotel Booking Policy
+Embassy Suites by Hilton Niagara Falls, Fallsview  
+Address: 6700 Fallsview Boulevard, Niagara Falls, Ontario, Canada L2G 3W6
 
-Booking & Reservation
-- Guests must be at least 18 years old to make a reservation.
-- A valid credit card is required to confirm all bookings.
-- Reservations made without a credit card are considered non-guaranteed and may be released at 4:00 PM on the day of arrival.
-- Early check-in and late check-out requests are subject to availability and may incur additional fees.
+OVERVIEW
+- A distinctive 42 floor two-room suite hotel offering unobstructed panoramic views of Horseshoe Falls and American Falls. Located directly adjacent to the Falls Incline Railway and within walking distance to major attractions like Clifton Hill and the Niagara Falls Convention Centre.
+- Ideal for both leisure and business travelers, featuring extensive conference facilities, meeting rooms, and on-site restaurants.
 
-Cancellation & No-Show Policy
-- Standard Rate: Free cancellation up to 24 hours before the check-in date (3:00 PM local time).
-- Cancellations made within 24 hours of arrival are subject to a one-night room charge plus taxes.
-- No-shows will be charged 100% of the first night including taxes.
+GUEST SUITES & ACCOMMODATIONS
+- Two-room layout: separate living area with sofa bed and bedroom. Options include King Suite, Double Queen Suite, and Family Suites (some with fireplaces or Whirlpool tubs).
+- Most suites overlook Niagara Falls, some feature connecting room options for families.
+- In-room amenities include mini-fridge, coffee maker, microwave, dual flat-screen TVs, in-room safe, dual phones with data ports, MP3-compatible clock, hairdryer, and luxury toiletries by Thann.
 
-Check-in / Check-out
-- Check-in: From 3:00 PM
-- Check-out: By 11:00 AM
-- Early check-in is allowed from 12:00 PM, subject to availability, with a $40 early access fee.
-- Late check-out up to 2:00 PM may be granted for an additional $50.
+DINING & BEVERAGES
+- Complimentary made-to-order breakfast buffet served daily (typically 6:30 to 9:30 AM), including hot and cold items such as eggs, pancakes, fruit, yogurt, meats, pastries, and cereal.
+- Evening Reception nightly with complimentary two drinks (beer or wine) per guest room, soft beverages, and light appetizers; times vary per night.
+- On-site dining:
+    - STK Steakhouse Fallsview (9th floor): upscale steak & seafood menu with sweeping Falls views.
+    - TGI Fridays in lobby: casual American fare (burgers, steaks, pasta, appetizers).
+    - Starbucks® Café in the lobby for coffee, snacks, and quick bites.
 
-Payment & Deposit
-- Accepted payment methods: Visa, MasterCard, American Express, Interac Debit.
-- A security deposit of $150 CAD is required upon check-in, refundable upon room inspection at check-out.
-- Full room payment is collected at check-in, unless prepaid.
+AMENITIES & RECREATION
+- Indoor pool, 2 whirlpools, and outdoor sundeck all located on the 9th floor.
+- Fitness centre open 24 hours with cardio and weight equipment.
+- Games room/arcade, guest laundry, business centre, meeting rooms, and event facilities available.
+- Additional services: concierge desk, gift shop, room service, digital key access, and EV charging stations.
 
-Occupancy & Guest Policy
-- Standard occupancy is 2 adults per room.
-- Maximum occupancy (with rollaway/crib): 4 guests, depending on room type.
-- Children under 12 stay free when using existing beds.
-- Extra adult charge: $25/night.
+PARKING & TRANSPORTATION
+- Self parking: approx. CAD 70 per night; Valet parking: approx. CAD 100 per night with in/out privileges. EV charging available onsite.
+- WEGO shuttle service picks up in front of the hotel and transports guests to attractions including Clifton Hill, casinos and the falls.
+- Concierge can assist with booking off-site tours, taxis, or bus services like FlixBus.
 
-Luggage & Storage
-- Luggage storage is available free of charge on the day of check-in and check-out.
-- Long-term storage (beyond 24 hours) is not guaranteed and may incur a charge.
+CHECK-IN / CHECK-OUT & RESERVATIONS
+- Check-in from 4:00 PM, with latest arrival accepted up to 11:00 PM. Check-out by 11:00 AM; late checkout (until 2:00 PM) may be granted for a fee (~CAD 50).
+- Reservation requires a valid credit card from guests aged 18+. Cash-only payment requires age 21+. Credit card holds or authorizations may apply.
+- Cancellation policy: free cancellation up to 72 hours before arrival; later cancellations or no-shows incur a charge of the first night plus tax.
+- Security deposit: approx. CAD 200 authorization placed per night at check-in, refundable if no damages.
 
-Amenities
-- Free Wi-Fi in all rooms and public areas.
-- Daily housekeeping service included.
-- Fitness centre and pool open from 6:00 AM to 10:00 PM.
-- Business centre available 24/7 with guest key access.
+OCCUPANCY & ADDITIONAL CHARGES
+- Standard occupancy is 2 adults per suite. Additional adults: CAD 25/night plus tax. Children 17 and under stay free in existing bedding.
+- Rollaway beds (if available): approx. CAD 20/night plus tax; maximum occupancy per suite varies with bed configuration.
 
-Pet Policy
-- Pets under 40 lbs are allowed.
-- Pet fee: $75 CAD per stay (non-refundable).
-- Guests must sign a waiver and are responsible for any damage caused.
+PET & SMOKING POLICY
+- Only certified service animals are permitted. Pets are not allowed.
+- Entire property is non-smoking. Violations may result in cleaning fees and penalties.
 
-Smoking Policy
-- All guest rooms and public indoor areas are 100% non-smoking.
-- Violation of this policy results in a $250 cleaning fee.
+INTERNET & BUSINESS SERVICES
+- Wi-Fi is available in rooms and public areas for a daily fee (typically CAD 9.95). Business centre open 24/7 with computers and printing access.
+- Meeting rooms and event spaces equipped with AV equipment, catering, and planning assistance.
 
-Parking
-- On-site valet parking: $45 CAD/day with in-and-out privileges.
-- Nearby self-parking lots available (not affiliated).
+ACCESSIBILITY & FAMILY SERVICES
+- Accessible rooms and public areas with roll-in showers, grab bars, lower counters, and in-room accessibility controls.
+- Cribs and playpens available free of charge; rollaway beds provided for a fee.
 
-Emergency & Security
-- Emergency exits are marked on your floor map.
-- 24/7 security team and front desk are available for assistance.
-- In case of fire alarm, evacuate immediately using the stairs.
+TOURS & LOCAL ATTRACTIONS
+- Concierge arranges tours and tickets for attractions like Niagara Parks, Hornblower Cruises, and seasonal events.
+- Located within walking distance of the Falls, Casino Niagara, Skylon Tower, Clifton Hill, and nightly fireworks displays (seasonal).
+
+SPECIAL OFFERS & PACKAGES
+- Offers include Family Getaway, Romance Package, and "Fallsview Dining Package" which feature complimentary breakfast, evening reception, and dining vouchers at TGI Fridays or IHOP.
+
+EMERGENCY & SECURITY
+- 24-hour staffed front desk and security personnel. Emergency exits clearly marked with stair access in case of fire.
+
+GUEST EXPERIENCE & REVIEWS
+- Rated 3.7/5 by ~12,600 TripAdvisor reviewers commenting on excellent views, spacious suites and friendly staff; some mention website listing inconsistencies.
 """
