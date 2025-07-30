@@ -2,7 +2,7 @@ import socket
 import threading
 import json
 
-from chat.reply_engine import generate_reply  # AI chatbot logic
+from chat.reply_engine import generate_reply
 
 from wsproto import WSConnection
 from wsproto.connection import SERVER
